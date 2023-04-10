@@ -36,7 +36,9 @@ em{
     text-decoration: underline;
     letter-spacing: .25rem;
     font-weight: bold;
+   
 }
+
 .comment{
     display: block;
     background-color: #FFFFA8;
